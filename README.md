@@ -21,7 +21,7 @@
 
 ## 📖 Sobre 
 
-Este site foi feito durante o curso 'Modern HTML & CSS From The Beginnig' do professor Brad Traversy como exercício de introdução ao SASS. 
+Este site foi feito durante o curso 'Modern HTML & CSS From The Beginnig' do professor Brad Traversy como exercício de introdução ao SASS. Para esse exercício simples utilizamos os conceitos de variáveis, Funções e Mixins da tecnologia SASS.
 
 ---
 
